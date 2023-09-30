@@ -12,6 +12,8 @@ Submitted by: ASHMI S
 Register number: 212221040021
 */
 ```
+
+
 ## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
