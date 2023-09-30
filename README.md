@@ -1,11 +1,9 @@
 # MAD-workshop3
 
-## Design a simple application to display/play the video in android activity or view using raw folder.
+## Create a Simple Application using different types of resources like color,dimension,strings,styles,layout and drawnable for display the details about fruit names.
 
 ## AIM:
-To design a simple application to display/play the video in android activity or view using raw folder.
-
-## PROGRAM:
+To create a Simple Application using different types of resources like color,dimension,strings,styles,layout and drawnable for display the details about fruit names.
 ```
 /*
 Submitted by: ASHMI S
@@ -179,7 +177,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-
+![Screenshot (382)](https://github.com/ashmistalin/MAD--Workshop3/assets/103128410/02ea39db-819b-4cad-897f-d81a8ca7bfe1)
 
 ## RESULT:
-
+Thus a Simple Application using different types of resources like color,dimension,strings,styles,layout and drawnable for display the details about fruit names is created.
